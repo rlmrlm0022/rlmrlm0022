@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any java/android repos
 - 📫 How to reach me here at [this page]
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...I am not in Philadelhia.
+- ⚡ Fun fact: ...I am not in Philadelphia.
 
 <!---
 rlmrlm0022/rlmrlm0022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
