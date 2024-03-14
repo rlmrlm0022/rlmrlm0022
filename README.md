@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rlmrlm0022
 - 👀 I’m interested in java
-- 🌱 I’m currently learning kotkin? :-(
+- 🌱 I’m currently learning kotlin? :-(
 - 💞️ I’m looking to collaborate on any java/android repos
 - 📫 How to reach me here at [this page]
 - 😄 Pronouns: he/him/his
